@@ -1,7 +1,5 @@
 # Anna Bichevskaya 
 
---------------------
-
 **Currently**   
 
 I'm a third-year student in **Minsk Radioengineering College**.
@@ -28,7 +26,6 @@ My specialization is "Software information technology". Qualification - "a techn
 -----------------------
 
 **Code example**
-
 
 ``` C#
 /* Among all four-digit car numbers, determine the cars numbers which 
@@ -57,10 +54,10 @@ static int Number (int x, int y)
 
 ---------------------------
 **Contacts**
-     
-Hometown: Minsk 
-Country: Belarus                 
-e-mail:[anna.bichevskaja@gmail.com](https://mail.google.com/mail/u/0/)                          
+
+Country: Belarus      
+Hometown: Minsk                 
+e-mail: [anna.bichevskaja@gmail.com](https://mail.google.com/mail/u/0/)                          
 
 ---------------------------
 
