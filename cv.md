@@ -3,7 +3,8 @@
 **Currently**   
 
 I'm a third-year student in **Minsk Radioengineering College**.
-My specialization is "Software information technology". Qualification - "a technician-programmer"
+My specialization is "Software information technology". 
+Qualification - "a technician-programmer"
 
 ---------------------------------
 
