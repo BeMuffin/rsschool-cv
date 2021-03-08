@@ -1,5 +1,4 @@
 # Anna Bichevskaya 
--------------------------------
 
 **Currently**   
 
@@ -61,5 +60,4 @@ Country: Belarus
 Hometown: Minsk                 
 e-mail: [anna.bichevskaja@gmail.com](https://mail.google.com/mail/u/0/)                          
 
----------------------------
 
