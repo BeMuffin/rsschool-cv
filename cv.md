@@ -1,4 +1,5 @@
 # Anna Bichevskaya 
+-------------------------------
 
 **Currently**   
 
@@ -30,6 +31,7 @@ My specialization is "Software information technology". Qualification - "a techn
 ``` C#
 /* Among all four-digit car numbers, determine the cars numbers which 
 containing three or more identical digits. */
+
 static int Number (int x, int y)
            {
                int num=0;
