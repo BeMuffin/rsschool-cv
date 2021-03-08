@@ -1,24 +1,30 @@
-#Anna Bichevskaya 
-====================
-
-**Currently**
+Anna Bichevskaya 
 --------------------
+
+**Currently**   
+
 I'm a third-year student in **Minsk Radioengineering College**.
 My specialization is "Software information technology". Qualification - "a technician-programmer"
 
+---------------------------------
+
 **Education**
+
+* 2009 - 2019 - Secondary school №124 (Minsk)
+* 2019 - 2022 - Minsk Radioengineering College
+
 -------------------
-: 2009 - 2019 - Secondary school №124 (Minsk)
-: 2019 - 2022 - Minsk Radioengineering College
 
 **Technical skills**
------------------------
+
 C#        UNIX
 Python    Database (MySQL) 
 Delphi    HTML and CSS
 
+-----------------------
+
 **Code example**
---------------------------
+
 
 ``` C#
 /* Among all four-digit car numbers, determine the cars numbers which 
@@ -39,14 +45,17 @@ static int Number (int x, int y)
                         return 4*num;
             }
 ```
+--------------------------
 
 **Human languages**
----------------------------
+
 *English (Intermediate)
 
+---------------------------
 **Contacts**
----------------------------       ---------------------------------
-Hometown: Minsk                   e-mail:[anna.bichevskaja@gmail.com](anna.bichevskaja@gmail.com)                            
-Country: Belarus                              
+     
+Hometown: Minsk   Country: Belarus                 
+e-mail:[anna.bichevskaja@gmail.com](anna.bichevskaja@gmail.com)                          
 
+---------------------------
 
