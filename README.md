@@ -1,1 +1,1 @@
-https://BeMiffin.github.io/rsschool-cv/cv
+https://bemuffin.github.io/rsschool-cv/cv
