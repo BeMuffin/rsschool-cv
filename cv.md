@@ -1,7 +1,6 @@
 # Anna Bichevskaya
 ## Software Test Automation Engineer
-====
-
+*********
 ### Technical Skills
 * Programming Languages
     + JavaScript
@@ -46,14 +45,14 @@
 * Software Engineer in Freonika 
 ##### August 2021 - July 2022
 
-====
+*********
 ### Languages
 * English - B2
 * Belarusian - Native
 * Russian - Native
 * Spanish - A1
 
-====
+*********
 ### Code examples
 > All Star Code Challenge #18
 ```
